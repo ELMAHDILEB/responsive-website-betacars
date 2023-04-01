@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
 *{
-    padding: 0;
+    padding: 0;7
     margin: 0;
     box-sizing: border-box;
     font-family: 'Rowdies', cursive, sans-serif;
@@ -973,8 +973,10 @@ h1.title-vehicule::after {
         height: 304px;
     }
     .about .about-right img {
-        width: 100%;
+        width: 70%;
         height: 304px;
+        display: flex;
+        margin: 0 auto;
     }
     @media (max-width: 613px){
     .about{
