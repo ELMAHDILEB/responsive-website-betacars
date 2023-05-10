@@ -838,6 +838,7 @@ h1.title-vehicule::after {
 @media (max-width:985px){
     header label{
         display: block;
+        padding:10px;
     }
     header nav {
         position: absolute;
